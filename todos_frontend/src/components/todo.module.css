@@ -1,0 +1,29 @@
+.todo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid tomato;
+    /* margin-bottom: 1rem; */
+    padding: 0 1rem;
+    gap: 1.4rem;
+    border-radius: 0.5rem;
+    width: 88%;
+    margin: 0 5rem;
+}
+.btn {
+    background-color: #4942E4;
+    color: #FFF5B8;
+    padding: .5rem;
+    border: 1px solid #FF0060;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.delbtn {
+    background-color: #5C469C;
+    color: #D4ADFC;
+    border: 1px solid #FF0060;
+    padding: .5rem;
+    margin: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
